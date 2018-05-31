@@ -8,6 +8,6 @@ greeting + topic + specialGuest + "!";
 
 var topic = "space";
 
-var talk = "Let's talk about"
+var talk = "Let's talk about";
 
 var conversation = talk +  `${topic}`;
